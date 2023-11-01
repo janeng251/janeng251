@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jane Ng</h1>
-<h3 align="center">Student at Universiti Teknologi Malaysia | Bachelor of Computer Science (Bioinformatics) - create and maintain databases of genomic information</h3>
+<h3 align="center">Bachelor of Computer Science (Bioinformatics) at Universiti Teknologi Malaysia</h3>
 
 - 📫 Reach me through **janeng251@gmail.com**
 
